@@ -93,7 +93,7 @@ def ask_for_file():
 root = TkinterDnD.Tk()
 
 # Set up the window properties
-root.title("ASCII Art Generator")
+root.title("Image 2 Ascii")
 root.geometry("400x200")
 
 # Allow the root window to accept drops
