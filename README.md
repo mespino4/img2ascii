@@ -1,3 +1,4 @@
+![img2ascii](images/img2ascii.png)
 # img2ascii: A URL Shortener
 This is a small application that converts any image into ascii art and outputs the .txt file
 ## Table of Contents
@@ -6,7 +7,6 @@ This is a small application that converts any image into ascii art and outputs t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Demo](#demo)
 
 ## Features
 
@@ -43,13 +43,6 @@ To convert an image to ascii art follow these steps
 
 ## Screenshots
 
-![Homepage](screenshots/ss1.png)
-*Homepage of the Smolink application*
+![App](images/app.png)
 
-![Shorten URL](screenshots/ss2.png)
-*Shorten a URL with Smolink*
-
-## Demo
-
-![Demo](smolink_demo.gif)
-*A demonstration of how Smolink works.*
+![Example](images/ex1.png)
